@@ -12,8 +12,5 @@ Este proyecto consiste en una página de perfil profesional estática desarrolla
 - [cite_start]**Selectores:** Uso de selectores avanzados, combinadores de hijo directo y pseudo-clases como `:hover` y `:focus`[cite: 779, 1134, 1225].
 - [cite_start]**Accesibilidad:** Formulario de contacto con indicadores de foco (focus ring) claros para navegación por teclado[cite: 1225, 1278].
 
-## Instrucciones de Ejecución
-1. Clonar el repositorio: `git clone https://github.com/maocalderon/calderon-post1-u3.git`
-2. Abrir la carpeta en Visual Studio Code.
-3. [cite_start]Hacer clic derecho sobre el archivo `index.html` y seleccionar **"Open with Live Server"**[cite: 810].
+
 
